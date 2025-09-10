@@ -1,3 +1,6 @@
+
+<img align="center" src="./Assets/portada.png" alt="portada"/>
+
 # Sobre mi, About Me:
 Soy un desarrollador de software autodidacta con un fuerte entusiasmo por el aprendizaje continuo.<br>Me encanta romper cosas para entender su funcionamiento y luego reconstruirlas con una visión más optimizada.<br><br>Siempre en busca de nuevos retos y tecnologías.<br>Convencido de que la mejor forma de aprender es creando, probando y equivocándome.
 
