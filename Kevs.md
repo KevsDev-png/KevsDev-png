@@ -8,9 +8,8 @@ Soy un desarrollador de software autodidacta con un fuerte entusiasmo por el apr
 
 # <h2>Estadisticas: <img src="./Assets/estadisticados.gif" alt="Estadisticas" width="50px"/>
 </h2>
-
-![](https://github-readme-stats.vercel.app/api?username=KevsDev-png&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
 <img align="right" alt="Coding" width="400" src="./Assets/gitbranch.gif">
+![](https://github-readme-stats.vercel.app/api?username=KevsDev-png&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KevsDev-png&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevsDev-png&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
