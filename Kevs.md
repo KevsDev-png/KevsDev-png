@@ -19,6 +19,6 @@ Soy un desarrollador de software autodidacta con un fuerte entusiasmo por el apr
 
 <br>
 
-<img align="center" src="./Assets/Final.jpg" />
+<img align="center" src="./Assets/Finall.png" />
 
 
