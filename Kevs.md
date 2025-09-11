@@ -2,7 +2,9 @@
 <img align="center" src="./Assets/Portada.png" />
 
 # Sobre mi, About Me:
-Soy un desarrollador de software autodidacta con un fuerte entusiasmo por el aprendizaje continuo.<br>Me encanta romper cosas para entender su funcionamiento y luego reconstruirlas con una visión más optimizada.<br><br>Siempre en busca de nuevos retos y tecnologías.<br>Convencido de que la mejor forma de aprender es creando, probando y equivocándome.
+<div align="justify">
+Soy un desarrollador de software autodidacta con un fuerte entusiasmo por el aprendizaje continuo.<br>Me encanta romper cosas para entender su funcionamiento y luego reconstruirlas con una visión más optimizada.Siempre en busca de nuevos retos y tecnologías. Convencido de que la mejor forma de aprender es creando, probando y equivocándome.
+</div>
 
 
 # <h2>Lenguajes <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
