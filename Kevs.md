@@ -1,7 +1,7 @@
 
 <img align="center" src="./Assets/Portada.png" />
 
-# Sobre mi, About Me:
+# Sobre mi, About Me  <img src = "https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZjJreHp5YTBnMXc0NmVza2VqaGpjbW92bTVvYjY5OW9zb2JjbnY1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XZcwMvQLRf9aXRa3qW/giphy.gif" width = 32px> </h2>
 <div align="justify">
 Soy un desarrollador de software autodidacta con un fuerte entusiasmo por el aprendizaje continuo.<br>
 Me encanta romper cosas para entender su funcionamiento y luego reconstruirlas con una visión más optimizada.<br> 
