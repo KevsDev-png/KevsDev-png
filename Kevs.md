@@ -13,6 +13,10 @@ Actualmente estoy construyendo mi camino para convertirme en Full Stack Develope
 
 <br>
 
+<hr style="border: 1px solid gray;">
+
+<br>
+
 EN 🇺🇸
 <div align="justify">
 I am a self-taught software developer, with a strong enthusiasm for continuous learning.<br>
@@ -20,7 +24,6 @@ I love breaking things to understand how they work, and then rebuilding them wit
 I am always in search of new challenges and technologies, convinced that the best way to learn is by creating, testing, and learning from mistakes.<br>
 Currently, I am building my path to become a Full Stack Developer, focusing on developing solid foundations in the backend and on gaining a comprehensive education within the software development ecosystem.
 </div>
-
 
 # <h2>Lenguajes <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
