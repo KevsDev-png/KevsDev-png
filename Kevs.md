@@ -4,10 +4,10 @@
 # Sobre mi / About Me <img src = "https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f4a1.gif" width = 32px>
 
 <div align="justify">
-Soy un desarrollador de software autodidacta con un fuerte entusiasmo por el aprendizaje continuo.<br>
-Me encanta romper cosas para entender su funcionamiento y luego reconstruirlas con una visión más optimizada.<br> 
-Siempre en busca de nuevos retos y tecnologías. Convencido de que la mejor forma de aprender es creando, probando y equivocándome.<br>
-Actualmente estoy construyendo mi camino para convertirme en Full Stack Developer, enfocándome en desarrollar bases sólidas en el backend y una formación integral en el ecosistema del desarrollo
+Soy un desarrollador de software autodidacta, con un fuerte entusiasmo por el aprendizaje continuo.<br>
+Me encanta romper cosas para entender su funcionamiento y luego reconstruirlas con una visión más optimizada.<br>
+Siempre estoy en búsqueda de nuevos retos y tecnologías, convencido de que la mejor forma de aprender es creando, probando y equivocándome.<br>
+Actualmente estoy construyendo mi camino para convertirme en Full Stack Developer, enfocándome en desarrollar bases sólidas en el backend y en una formación integral dentro del ecosistema del desarrollo
 </div>
 
 
