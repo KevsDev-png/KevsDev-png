@@ -11,6 +11,8 @@ Siempre estoy en búsqueda de nuevos retos y tecnologías, convencido de que la 
 Actualmente estoy construyendo mi camino para convertirme en Full Stack Developer, enfocándome en desarrollar bases sólidas en el backend y en una formación integral dentro del ecosistema del desarrollo
 </div>
 
+<br>
+
 EN 🇺🇸
 <div align="justify">
 I am a self-taught software developer, with a strong enthusiasm for continuous learning.<br>
