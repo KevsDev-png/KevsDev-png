@@ -3,7 +3,7 @@
 
 # Sobre mi, About Me:
 <div align="justify">
-Soy un desarrollador de software autodidacta con un fuerte entusiasmo por el aprendizaje continuo.<br>Me encanta romper cosas para entender su funcionamiento y luego reconstruirlas con una visión más optimizada. Siempre en busca de nuevos retos y tecnologías. Convencido de que la mejor forma de aprender es creando, probando y equivocándome.
+Soy un desarrollador de software autodidacta con un fuerte entusiasmo por el aprendizaje continuo.Me encanta romper cosas para entender su funcionamiento y luego reconstruirlas con una visión más optimizada. Siempre en busca de nuevos retos y tecnologías. Convencido de que la mejor forma de aprender es creando, probando y equivocándome.
 </div>
 
 
