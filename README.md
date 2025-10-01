@@ -3,7 +3,7 @@
 
 # Sobre mi / About Me <img src = "https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f4a1.gif" width = 32px>
 
-ES 🇪🇸
+CO 
 <div align="justify">
 Soy un desarrollador de software autodidacta, con un fuerte entusiasmo por el aprendizaje continuo.<br>
 Me encanta romper cosas para entender su funcionamiento y luego reconstruirlas con una visión más optimizada.<br>
