@@ -40,15 +40,15 @@ Currently, I am building my path to become a Full Stack Developer, focusing on d
 </a>
 </p>
 
-<img align="center" alt="Coding" width="300"  src="./Assets/gitbranch.gif"/>
-
+<div align="center">
+  <img alt="Coding" width="300" src="./Assets/gitbranch.gif"/>
+</div>
 
 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/KevsDev-png/KevsDev-png/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-
 
 <br>
 
