@@ -41,8 +41,9 @@ Currently, I am building my path to become a Full Stack Developer, focusing on d
 </p>
 
 <div align="center">
-  <img margin-left="15px" align="left" width="230" height="230" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
-  <img alt="Coding" width="300" src="./Assets/gitbranch.gif"/>
+  <img width="230" height="230" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif" alt="Octocat Anime"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="300" src="./Assets/gitbranch.gif" alt="Coding"/>
 </div>
 
 <br>
