@@ -33,13 +33,22 @@ Currently, I am building my path to become a Full Stack Developer, focusing on d
 # <h2>Estadisticas: <img src="./Assets/estadisticados.gif" alt="Estadisticas" width="50px"/>
 </h2>
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<img align="right" alt="Coding" width="300"  src="./Assets/gitbranch.gif"/>
+
+
 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<img align="right" alt="Coding" width="300"  src="./Assets/gitbranch.gif"/>
 
 <br>
 
