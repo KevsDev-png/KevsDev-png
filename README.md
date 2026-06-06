@@ -33,15 +33,13 @@ Currently, I am building my path to become a Full Stack Developer, focusing on d
 # <h2>Estadisticas: <img src="./Assets/estadisticados.gif" alt="Estadisticas" width="50px"/>
 </h2>
 
-<img align="right" alt="Coding" width="300"  src="./Assets/gitbranch.gif"/>
-
-	
 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
+<img align="right" alt="Coding" width="300"  src="./Assets/gitbranch.gif"/>
 
 <br>
 
