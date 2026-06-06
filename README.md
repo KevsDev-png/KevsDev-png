@@ -44,12 +44,6 @@ Currently, I am building my path to become a Full Stack Developer, focusing on d
   <img alt="Coding" width="300" src="./Assets/gitbranch.gif"/>
 </div>
 
-🐍 A Snake Eating my Contributions Graph
-	
-<p align="center">
-  <img src="https://github.com/KevsDev-png/KevsDev-png/raw/main/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
-
 <br>
 
 <img align="center" src="./Assets/Final.png" />
