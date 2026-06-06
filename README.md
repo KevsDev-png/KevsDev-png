@@ -34,13 +34,13 @@ Currently, I am building my path to become a Full Stack Developer, focusing on d
 </h2>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/KevsDev-png">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-<img align="right" alt="Coding" width="300"  src="./Assets/gitbranch.gif"/>
+<img align="center" alt="Coding" width="300"  src="./Assets/gitbranch.gif"/>
 
 
 🐍 A Snake Eating my Contributions Graph
